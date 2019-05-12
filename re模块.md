@@ -1,8 +1,8 @@
 pythonh中re模块  
 Python使用re模块提供了正则表达式处理的能力  
 常量  
-|常量|说明|  
-|--|--|  
+|常量|说明|   
+|--|--|       
 |re.M re.MULTILINE|多行模式|  
 |re.S re.DOTALL|单行模式|  
 |re.I re.IGNORECASE|忽略大小写|  
